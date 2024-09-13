@@ -1,12 +1,7 @@
 ## Hi there, I am Nga. 🖐
 ## Welcome to my profile! 😎
 
-- 😻 I am interested in Computer Science and its relating fields.
-- 👩 Pronoun: She/Her
-- 🤖 I am currently working on Computer Vision and Natural Language Processing
-- 🦚 My most recent project is Traffic Sign Classification and Sentiment Recognition
-- 🐱‍👓 My web developing skills include HTML, CSS, Javascript, Node Js and Vue Js
-- 🤝 If you want to collaborate, please send email to vuthiquynhngahvn@gmail.com
+- 😻 I am a Computer Science student working in Biomedical field. My current work is working on Health data of AZ Department, provides insights as well as construct predictive model to improve decision making of our state Opioid Response
 
 ## Stats
 
