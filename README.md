@@ -2,7 +2,7 @@
 ## Welcome to my profile! 😎
 
 - 😻 I am a Computer Science student working in Biomedical field. My current work is working on Health data of AZ Department, provides insights as well as construct predictive model to improve decision making of our state Opioid Response
-- I also build automation tool to improve the efficiency of manual lab work like data labeling using various LLMs like Llama3. My work will also include finetuning data if necessary.
+- I also build automation tool to improve the efficiency of manual lab work like data labeling using various LLMs like Llama3. My work will also include finetuning LLMs if necessary.
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
